@@ -3,6 +3,9 @@
 
 
 def myFunction(arg1, arg2=None):
+    """myFunction(arg1, arg2=none) --> Gör ingenting!!
+    Parameter:
+    """
     print(arg1, arg2)
 
 
